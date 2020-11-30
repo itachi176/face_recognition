@@ -1,0 +1,6 @@
+Dataset/FaceData/processed/ronaldo/2871741-59142828-2560-1440-092125-1.png 549 137 756 396
+Dataset/FaceData/processed/ronaldo/rona-8413-1606259083.png 362 108 501 275
+Dataset/FaceData/processed/ronaldo/Cristiano_Ronaldo_2018.png 130 77 394 415
+Dataset/FaceData/processed/ronaldo/Ronaldo.png 301 63 496 322
+Dataset/FaceData/processed/ronaldo/juventus-san-sang-dai-ha-gia-de-ban-ronaldo-05-.0693.png 210 65 331 220
+Dataset/FaceData/processed/ronaldo/danilo-cua-juventus-thua-nhan-se-nho-ronaldo.png 271 24 417 207

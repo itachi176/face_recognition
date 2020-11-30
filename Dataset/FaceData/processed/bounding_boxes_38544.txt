@@ -1,0 +1,3 @@
+Dataset/FaceData/processed/Hoang/test.png 233 144 518 480
+Dataset/FaceData/processed/Hoang/2020-11-26-161937.png 281 31 464 266
+Dataset/FaceData/processed/Hoang/2020-11-26-162029.png 180 95 446 419
